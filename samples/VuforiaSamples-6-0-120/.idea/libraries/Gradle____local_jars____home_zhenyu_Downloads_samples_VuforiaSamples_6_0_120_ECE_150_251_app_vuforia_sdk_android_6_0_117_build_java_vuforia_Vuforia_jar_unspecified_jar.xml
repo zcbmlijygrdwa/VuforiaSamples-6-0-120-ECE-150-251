@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: __local_jars__:/home/zhenyu/Downloads/samples/VuforiaSamples-6-0-120-ECE-150-251/app/vuforia-sdk-android-6-0-117/build/java/vuforia/Vuforia.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/vuforia-sdk-android-6-0-117/build/java/vuforia/Vuforia.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
