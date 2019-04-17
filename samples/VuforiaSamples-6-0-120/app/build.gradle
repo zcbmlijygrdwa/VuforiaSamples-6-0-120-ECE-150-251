@@ -6,7 +6,7 @@ def JAR_DIR = 'build/java/vuforia'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion '25.0.0'
+    //buildToolsVersion '25.0.0'
 
     sourceSets.main {
         jni.srcDirs = []
@@ -41,5 +41,5 @@ android {
 }
 
 dependencies {
-    compile files('vuforia-sdk-android-6-0-117/build/java/vuforia/Vuforia.jar')
+    implementation files('vuforia-sdk-android-6-0-117/build/java/vuforia/Vuforia.jar')
 }
